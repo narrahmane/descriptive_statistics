@@ -1,5 +1,6 @@
-# descriptive_statistics
-The goal of this repository is to use descriptive statistics and charts to explore rental estate purchases dataset.
+# Real estate purchases - descriptive statistics
+
+The goal of this repository is to use descriptive statistics and charts to explore real estate purchases dataset.
 
 We are exploring:
  - measurement of central tendancy
